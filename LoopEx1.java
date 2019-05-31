@@ -30,7 +30,6 @@ public class LoopEx1 {
                 System.out.println(number);
             }
         
-        
     }
     
 }

@@ -8,7 +8,7 @@ public class LoopEx5 {
         int sum = 0;
         for (int number : numbers) {
             sum += number;
-//            sum = sum + number[0] + + number[1] + number[2] + number[3] + number[4] + number[5] + ... + number[n];
+//            sum += number = sum + number[0] + number[1] + number[2] + number[3] + number[4] + number[5] + ... + number[n];
         }
         return sum;
     }
@@ -18,7 +18,7 @@ public class LoopEx5 {
         
         int[] numbers = {2, 5, 7, 34, 65, 80, 56};
         
-        System.out.println("Print the contest of the Array: ");
+        System.out.println("Print the content of the Array: ");
         for (int index = 0; index < numbers.length; index++) {
             System.out.println(numbers[index]);
         }
