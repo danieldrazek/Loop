@@ -1,4 +1,6 @@
-
+/*
+ * Napisz pętlę for, która wypisze na ekranie wszystkie liczby nieparzyste od -10 do 40.
+ */
 package loop;
 
 public class LoopEx3 {

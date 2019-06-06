@@ -1,4 +1,6 @@
-
+/*
+ * Napisz metodę, która jako jedyny argument przyjmie zmienną typu int[] i zwróci sumę wszystkich elementów tablicy.
+ */
 package loop;
 
 public class LoopEx5 {

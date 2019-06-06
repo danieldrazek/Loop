@@ -1,4 +1,6 @@
-
+/*
+ * Napisz pętlę while, która wypisze na ekranie wszystkie liczby od 10 do 20 włącznie.
+ */
 package loop;
 
 public class LoopEx2 {

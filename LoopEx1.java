@@ -1,4 +1,6 @@
-
+/*
+ * Napisz program, który wypisze na ekranie malejąco wszystkie liczby od 20 do 10.
+ */
 package loop;
 
 public class LoopEx1 {
